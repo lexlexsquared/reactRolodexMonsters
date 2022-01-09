@@ -1,3 +1,5 @@
+# Project created to refresh React Basics.
+>> refreshing on React w/o hooks, fetching in frontend.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
